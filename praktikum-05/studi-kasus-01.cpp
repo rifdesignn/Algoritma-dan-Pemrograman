@@ -13,7 +13,6 @@ int main() {
     calculateSquare(num);
 
     cout << "Kuadrat dari " << num << " adalah " << num << endl;
-    
     // cout << "Kuadrat dari " << originalNum << " adalah " << num << endl;  Output yang benar
 
     return 0;
