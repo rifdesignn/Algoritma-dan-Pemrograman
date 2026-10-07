@@ -86,11 +86,10 @@ git clone https://github.com/rifdesignn/Algoritma-dan-Pemrograman.git
   <ol start="3">
     <li>Open the cloned folder in <b>Visual Studio Code</b>.</li>
   </ol>
+</div>
 
 > [!IMPORTANT]
 > The code in this repository is written for learning purposes. Feel free to use it as a reference, but try to work on your own assignments first so you truly understand the material.
-
-</div>
 
 <div>
   <h2>Usage</h2>
@@ -102,11 +101,10 @@ g++ file-name.cpp -o program
 ```
 
   <p>On Windows, run it with <code>program.exe</code>.</p>
+</div>
 
 > [!NOTE]
 > Some files use comments as notes, for example explaining the base case in the recursion example. Read the comments to follow how the code works.
-
-</div>
 
 <div>
   <h2>Updating</h2>
